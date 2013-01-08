@@ -1,0 +1,4 @@
+---
+ntp_servers:
+  - 'kvm1.dr.domain.com'
+

@@ -1,0 +1,4 @@
+---
+ntp_servers:
+  - 'rogue.internal.net'
+

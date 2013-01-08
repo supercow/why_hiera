@@ -1,0 +1,4 @@
+# /etc/puppetlabs/puppet/modules/ntp/templates/ntp.conf.erb
+<% @ntp_servers.each do |ntp_server| -%>
+server <%= ntp_server %>
+<% end -%>

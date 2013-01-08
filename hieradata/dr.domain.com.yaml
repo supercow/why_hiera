@@ -1,0 +1,5 @@
+---
+ntp_servers:
+  - 'ntp1.dr.domain.com'
+  - 'ntp2.dr.domain.com'
+
